@@ -723,6 +723,7 @@
         padding: 40px 90px;
         border-radius: 10px;
         border-color: #FFF;
+        border-style: solid;
         background:linear-gradient(to bottom, #aa188e 50%, purple 100%);
         font-size: 40px;
         font-family: 'Chewy', cursive;
