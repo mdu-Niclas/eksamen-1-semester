@@ -4,12 +4,12 @@
 
 /*OVERORDNEDE RULES TIL ALLE ENHEDER */
 
-body{
-    background-color: #aa188e;
-    color: #FFF;
-    width: 70%;
-    margin: 0 auto;
-    font-family: 'Chewy', cursive;
+    body{
+        background-color: #aa188e;
+        color: #FFF;
+        width: 70%;
+        margin: 0 auto;
+        font-family: 'Chewy', cursive;
 
 }
 
@@ -370,12 +370,13 @@ body{
     }
     
     .konkurrence-beskrivelse3{
-       position: absolute;
-       margin-top: 32%;
-       margin-left: 16.5%;
-       font-size: 18px;
+        position: absolute;
+        margin-top: 32%;
+        margin-left: 16.5%;
+        font-size: 18px;
         max-width: 70%;
         line-height: 30px;
+        text-align: center;
     
     }
     
@@ -403,12 +404,13 @@ body{
     }
     
     .konkurrence-beskrivelse4{
-       position: absolute;
-       margin-top: 32%;
-       margin-left: 16.5%;
-       font-size: 18px;
+        position: absolute;
+        margin-top: 32%;
+        margin-left: 16.5%;
+        font-size: 18px;
         max-width: 70%;
         line-height: 30px;
+        text-align: center;
     
     }
     
