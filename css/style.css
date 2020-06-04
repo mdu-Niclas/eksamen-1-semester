@@ -760,14 +760,14 @@
     .konkurrence-overskrift2{
         position: absolute;
         margin-top: 25%;
-        margin-left: 28%;
+        margin-left: 38%;
         font-size:22px;
         text-shadow: 2px 2px purple;
     }
     
     .konkurrence-beskrivelse2{
         position: absolute;
-        margin-left: 24%;
+        margin-left: 35%;
         margin-top: 28%;
         font-size: 18px; 
     }
@@ -797,14 +797,14 @@
     .konkurrence-overskrift3{
         position: absolute;
         margin-top: 10%;
-        margin-left: 30%;
+        margin-left: 40%;
         font-size:22px;
         text-shadow: 2px 2px purple;
     }
     
     .konkurrence-beskrivelse3{
         position: absolute;
-        margin-left: 21%;
+        margin-left: 32%;
         margin-top: 13%;
         font-size: 18px; 
     }
@@ -838,14 +838,14 @@
     .konkurrence-overskrift4{
         position: absolute;
         margin-top: 27%;
-        margin-left: 28%;
+        margin-left: 38%;
         font-size:22px;
         text-shadow: 2px 2px purple;
     }
     
     .konkurrence-beskrivelse4{
         position: absolute;
-        margin-left: 18%;
+        margin-left: 28%;
         margin-top: 32%;
         font-size: 18px;
         max-width: 30%;
